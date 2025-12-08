@@ -13,13 +13,6 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "incremental": true,
-    
-    // 👇 Eklenen/Güncellenen İstisnalar: Hata yakalamayı gevşetir ve modül sorunlarını çözer
-    "allowSyntheticDefaultImports": true, 
-    "allowImportingTsExtensions": true, 
-    "noImplicitAny": false, 
-     
-
     "plugins": [
       {
         "name": "next"
